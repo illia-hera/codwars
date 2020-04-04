@@ -1,0 +1,13 @@
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\TasksTests.dll
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\TasksTests.pdb
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\nunit.framework.dll
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\Tasks.dll
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\Tasks.pdb
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\nunit.framework.pdb
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\nunit.framework.xml
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\obj\Debug\TasksTests.csprojAssemblyReference.cache
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\obj\Debug\TasksTests.csproj.CopyComplete
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\obj\Debug\TasksTests.dll
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\TasksTests\obj\Debug\TasksTests.pdb

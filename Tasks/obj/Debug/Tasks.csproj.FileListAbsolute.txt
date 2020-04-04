@@ -1,0 +1,5 @@
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\Tasks\bin\Debug\Tasks.dll
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\Tasks\bin\Debug\Tasks.pdb
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\Tasks\obj\Debug\Tasks.dll
+D:\lessons\Программирование\dotNET\Домашние задания\Codwars\Tasks\obj\Debug\Tasks.pdb
